@@ -1,0 +1,6 @@
+ci:
+- '.github/**/*.y*ml'
+doc:
+- '**/*.md'
+source:
+- '**/*.js'
