@@ -1,0 +1,13 @@
+{
+  "name": "fizz-buzz",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
